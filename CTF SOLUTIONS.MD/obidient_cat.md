@@ -1,1 +1,0 @@
-wget the url and get the flag

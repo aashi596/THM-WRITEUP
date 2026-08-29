@@ -1,0 +1,12 @@
+wget the three files 
+inspect the code
+
+the flag,txt.en has the flag 
+password is in password.txt file 
+
+decrypt using the ende.py code 
+
+use 
+python3 ende.py -d flag.txt.en $(cat password.txt)
+
+$(cat pw.txt) allows us to use the contents (password) in pw.txt without using the entire string as an argument.
